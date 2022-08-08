@@ -1,4 +1,4 @@
-#Image sharing social media application.
+# Image sharing social media application.
 
 <img src='sharewithme.jpg' alt='preview' />
 
